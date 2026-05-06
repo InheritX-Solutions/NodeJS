@@ -1,4 +1,7 @@
-/keys
 /public
 /node_modules
 jsdoc.conf
+
+.env
+.env.example
+/logs
